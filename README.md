@@ -36,7 +36,7 @@ print("word count in file = ",count)
 
 
 ### OUTPUT:
-![output](./wordcout.png)
+![output](./cla.png)
 
 
 
