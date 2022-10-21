@@ -1,5 +1,5 @@
-# command-line-arguments-to-count-word
-## AIM:
+# Command-line-arguments-to-count-word
+## Aim:
 To write a python program for getting the word count from the contents of a file using command line arguments.
 ## EQUIPEMENT'S REQUIRED: 
 PC
@@ -25,6 +25,11 @@ Run the program to determine the number of words in the file created.
 
 ## PROGRAM:
 ```python
+'''
+#Program for getting the word count from the contents of a file using command line arguments.
+#Developed by: Siva Chandran R
+#RegisterNumber: 22005531
+'''
 import sys
 count= 0
 with open(sys.argv[1],'r') as f1:
